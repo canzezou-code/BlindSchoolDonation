@@ -1,0 +1,11 @@
+{
+  "title": "blind school",
+  "description": "This platform showcases a blind children's school, featuring photos, teaching resources, and achievements while allowing users to make donations easily.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
